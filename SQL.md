@@ -1,8 +1,4 @@
-# Budget and Expense Tracker System v1.0 has SQL injection
-
 BUG_Author：wucwu1
-
-Website source address: https://www.sourcecodester.com/php/14893/budget-and-expense-tracker-system-php-free-source-code.html
 
 Vulnerability File: /expense_budget/admin/budget/manage_budget.php
 
